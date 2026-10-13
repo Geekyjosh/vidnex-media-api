@@ -1,0 +1,82 @@
+# VIDNEX MEDIA API
+
+## PROPRIETARY SOFTWARE LICENSE
+
+### ALL RIGHTS RESERVED
+
+**Copyright © 2026 Joshua Daramola. All Rights Reserved.**
+
+**Project:** VidNex Media API  
+**Copyright Holder:** Olaoluwa Joshua Daramola, Nexvius Labs
+**License Type:** Proprietary — Source Available, All Rights Reserved
+
+### 1. Ownership and Copyright
+
+VidNex Media API, including its original source code, software architecture, documentation, designs, configurations, and associated intellectual property, is owned by Olaoluwa Joshua Daramola (the "Copyright Holder"), except for third-party materials governed by their respective licenses.
+
+All rights not expressly granted under this License are reserved by the Copyright Holder.
+
+### 2. Public Source Code Availability
+
+The source code of this software may be made publicly accessible through GitHub or other authorized platforms for viewing, educational reference, and evaluation purposes.
+
+Public availability does not constitute a grant of an open-source license or permission to use the software.
+
+Permission to view the source code does not imply permission to copy, modify, distribute, deploy, reproduce, or commercially exploit it.
+
+### 3. Restrictions on Use
+
+Except as expressly permitted by applicable law or authorized in writing by the Copyright Holder, no individual, organization, or entity may:
+
+- Copy, reproduce, or substantially duplicate the software or its source code.
+- Modify, adapt, translate, or create derivative works based on the software.
+- Redistribute, publish, sublicense, transfer, or sell the software or substantial portions of its source code.
+- Deploy, host, operate, or incorporate the software into another product or service.
+- Use the software or its source code for commercial purposes, including Software-as-a-Service (SaaS) platforms, paid APIs, subscription services, or other revenue-generating applications.
+- Remove, alter, or conceal copyright notices, ownership information, or licensing statements.
+
+No license to patents, trademarks, or other intellectual property is granted by this document.
+
+### 4. Commercial Licensing and Authorization
+
+Any party wishing to use, integrate, modify, distribute, or commercially deploy VidNex Media API must first obtain written authorization from the Copyright Holder.
+
+Such authorization may be subject to a separate commercial licensing agreement, including applicable fees, conditions, and usage limitations.
+
+Requests for commercial licensing or other permissions may be directed to the Copyright Holder through the project's official GitHub repository.
+
+### 5. Third-Party Software and Dependencies
+
+VidNex Media API may use third-party libraries, frameworks, packages, and tools, including Python, FastAPI, and yt-dlp.
+
+These third-party components remain subject to their respective licenses and copyright notices.
+
+This License applies only to the original portions of VidNex Media API owned by the Copyright Holder and does not override rights granted under applicable third-party licenses.
+
+### 6. No Implied License
+
+Access to this repository, including the ability to view or fork it through GitHub's platform functionality, does not grant permission to independently use, reproduce, modify, distribute, or commercially exploit the software beyond rights expressly provided by applicable law or GitHub's governing terms.
+
+No license or other rights are granted by implication, waiver, or estoppel.
+
+### 7. Disclaimer of Warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THIS SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+### 8. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM THE ACCESS TO OR USE OF THIS SOFTWARE.
+
+### 9. Reservation of Rights
+
+The Copyright Holder reserves the right to grant separate licenses, enter into commercial agreements, and release future versions of the software under different licensing terms.
+
+No permission is granted except as expressly stated in this License or separately authorized in writing.
+
+---
+
+**© 2026 Olaoluwa Joshua Daramola. All Rights Reserved.**
+
+**VidNex Media API — Proprietary, Source-Available Software.**
+
+Unauthorized copying, modification, distribution, deployment, or commercial use is prohibited except as permitted by applicable law or expressly authorized in writing.
